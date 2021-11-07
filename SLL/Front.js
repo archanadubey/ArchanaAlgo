@@ -21,7 +21,7 @@ function insertNodeAtFront(head,data){
     return head;
 }
 
-dispaly(){
+function dispaly(){
     var chain ="";
     if (head==null){
         return null;
